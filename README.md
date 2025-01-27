@@ -2,7 +2,7 @@
 - 👀 I’m interested in Al
 - 🌱 I’m currently started learning python 
 - 💞️ I wanted to learn python java and c++ 
-- 📫 Hopeing github will help me to reach my desire 
+- 📫 Hoping github will help me to reach my desire 
 - 😄 Pronouns: shay_la
 - ⚡ Fun fact: i started learning python since yesterday 😀
 
